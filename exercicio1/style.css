@@ -1,0 +1,14 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+#paragrafo {
+    font-size: larger;
+    color: yellow;
+}
+
+.texto {
+    font-size: small;
+    color: red;
+}
